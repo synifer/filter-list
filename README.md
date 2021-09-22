@@ -1,1 +1,1 @@
-# dns_filter_list
+# Filter list against ads
